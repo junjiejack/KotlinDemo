@@ -24,4 +24,5 @@ fun main() {
     var assertString : String? = null
     var str = assertString!!.length
     // 报错: NPE
+
 }
